@@ -10,8 +10,6 @@ This project analyzes the trends of Stack Overflow tags over time using data fro
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
